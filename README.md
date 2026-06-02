@@ -1,7 +1,6 @@
 ## Meta-Reinforcement Learning with Self-Reflection for Agentic Search
 
 <p align="center">
-  <a href="https://github.com/tengxiao1/MR-Search"><img src="https://img.shields.io/badge/GitHub-MR--Search-black?logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License">
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome">
